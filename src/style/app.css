@@ -1,0 +1,60 @@
+.player-image {
+  margin: auto;
+  height: 95px;
+  border-radius: 50%;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1), 0 2px 5px rgba(0,0,0,0.2);
+  max-width: 100px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  display: flex;
+  justify-content: center;
+}
+
+.team-image {
+  margin: auto;
+  height: 30px;
+  border-radius: 50%;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1), 0 2px 5px rgba(0,0,0,0.2);
+  max-width: 85px;
+}
+
+.player-display p {
+  font-size: 13px;
+  margin: 0px;
+  text-align: center;
+}
+
+.season-average p {
+  margin-bottom: 0px;
+}
+
+.playerprofile {
+  height: 100px;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+.profile p{
+  margin-bottom: 0px;
+}
+
+.boxscore-table tr {
+  text-align: center;
+}
+
+.boxscore-table th {
+  text-align: center;
+}
+
+.boxscore-table p {
+  margin-bottom: 0px;
+}
+
+.season-average tr {
+  text-align: center;
+}
+
+.season-average th {
+  text-align: center;
+}
